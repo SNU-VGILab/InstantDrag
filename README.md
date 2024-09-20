@@ -43,7 +43,7 @@ CUDA_VISIBLE_DEVICES=0 python run_demo.py
 ```
 ### Disclaimer
 
-- Our **base** models are **solely** trained on real-world talking head (facial) videos, with a focus on achieving **fast fine-grained facial editing w/o metadata**. The preliminary signs of generalizability in other types of scenes, without fine-tuning should be considered more of an experimental byproduct and may not perform well in many cases. Please check the Appendix A of our paper for more information.
+- Our **base** models are **solely** trained on real-world talking head (facial) videos, with a focus on achieving **fast fine-grained facial editing w/o metadata**. The preliminary signs of generalizability in other types of scenes, without fine-tuning, should be considered more of an experimental byproduct and may not perform well in many cases. Please check the Appendix A of our paper for more information.
 - This is a research project, **NOT** a commercial product. Use at your own risk.
 
 ### Usage Instructions & Tips
